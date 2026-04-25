@@ -11,9 +11,10 @@
     - ``` pip install rubka```
 ---
 ### توسعه دهندگان:
-- Reza Khodayi
-    * Python
-    * Rust
+- Reza Khodayi ↴
+    * python
+    * php
+    * js
 ---
 ### برای حمایت از ما:
 [PyVibe Channel](https://rubika.ir/Py_Vibe01)
