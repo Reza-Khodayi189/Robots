@@ -17,4 +17,4 @@
     * js
 ---
 ### برای حمایت از ما:
-[PyVibe Channel](https://rubika.ir/Py_Vibe01)
+[PyVibe Channel](https://rubika.ir/Py_Viibe)
