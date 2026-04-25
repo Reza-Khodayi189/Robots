@@ -1,0 +1,67 @@
+{
+    "maker": "",
+    "message": 0,
+    "Admins": [],
+    "groups": {},
+    "robot": true,
+    "silent": false,
+    "fosh": [
+        "کیر",
+        "کص",
+        "کون",
+        "جنده"
+    ],
+    "tabligh": [
+        "بیو چک",
+        "بیاید گروه",
+        "بیاین گروه"
+    ],
+    "locks": {
+        "Link": true,
+        "id": true,
+        "Forward": true,
+        "Fosh": true,
+        "Code": true,
+        "Spam": true,
+        "Video": false,
+        "Photo": false,
+        "Voice": false,
+        "Sticker": true,
+        "Gif": false,
+        "Poll": false,
+        "Location": false,
+        "Story": false,
+        "HyperLink": false,
+        "File": false,
+        "Text": false
+    },
+    "Links": [
+        "post",
+        "join",
+        "http",
+        "ir",
+        "com"
+    ],
+    "ban_member": true,
+    "ban_filter": true,
+    "num_bans": {
+        "link": 3,
+        "id": 8,
+        "forward": 5,
+        "image": 3,
+        "file": 3,
+        "gif": 3,
+        "voice": 3,
+        "music": 3,
+        "video": 3,
+        "location": 3,
+        "sticker": 3,
+        "poll": 3,
+        "hyperlink": 3,
+        "story": 3,
+        "text": 3,
+        "fosh": 8,
+        "code": 1,
+        "warn": 3
+    }
+}
